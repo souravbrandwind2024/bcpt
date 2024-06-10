@@ -1,0 +1,278 @@
+
+/* Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) {
+
+}
+/* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) {
+
+}
+/* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) {
+  
+    
+  
+}
+/* Extra large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) {
+   
+}
+/* Extra large devices (large desktops, 1300px and up) */
+@media (min-width: 1300px) {
+}
+/* Large devices (desktops, less than 1200px) */
+@media (max-width: 1199.98px) {
+
+}
+/* Medium devices (tablets, less than 992px) */
+@media (max-width: 991.98px) {
+    .culture-box .content {
+        position: relative;
+        bottom: 0;
+        left: 0;
+        max-width: 100%;
+        padding: 19px 28px;
+        background: #000000;
+        opacity: 1;
+    }
+    .banner-award-left {
+        width: auto;
+        padding-right: 0;
+    }
+    .featured-area .featured-bg-area{
+        padding: 16px 13px;
+        margin-bottom: 20px;
+    }
+
+}
+/* Small devices (landscape phones, less than 768px) */
+@media (max-width: 767px) {
+    .speaker-message.second{
+        padding-top: 0;
+    }
+    .speaker-info .user-area .position-area p.sec{
+        font-size: 14px;
+        line-height: 22px;
+    }
+    .speaker-info .user-area .position-area h3{
+        font-size: 16px;
+        margin: 16px 0 7px 0;
+    }
+    .speaker-message .speaker-wrap .speaker-info .quote-area .quote-testimonial-content {
+        font-size: 14px;
+        line-height: 25px;
+    }
+    .speaker-info .quote-area img.quote-first {
+        width: 21px;
+        height: 21px;
+    }
+    .speaker-info .user-area img {
+        width: 111px;
+        height: 111px;
+        margin-bottom: 0;
+    }
+    .speaker-info .user-area {
+        width: 100%;
+        text-align: center;
+        /* display: flex;
+        flex-direction: row;
+        justify-content: center; */
+    }
+    .speaker-message .speaker-wrap .speaker-info .quote-area .quote-testimonial-content{
+        font-size: 14px;
+        line-height: 24px;
+    }
+    .speaker-message .speaker-wrap .speaker-info .quote-area .quote-testimonial-content .pop-underline{
+        font-size: 14px;
+    }
+    .speaker-message{
+        padding: 45px 15px 45px 15px;
+    }
+    .speaker-message .speaker-wrap{
+        max-width: 100%;
+    }
+    .speaker-message .speaker-wrap .speaker-info{
+        flex-direction: column;
+    }
+    .courses-grid h3{
+        margin-bottom: 3px;
+    }
+    .courses-grid h3 a{
+        font-size: 17px;
+    }
+    .courses-grid{
+        padding: 17px;
+        border-right: none;
+    }
+    .client-content p{
+        font-size: 14px;
+        line-height: 23px;
+    }
+    .client-box .rating{
+        font-size: 10px;
+    }
+    .client-box .client-content h6{
+        font-size: 16px;
+    }
+    .culture-box .content .culture-link svg {
+        width: 19px;
+        height: 19px;
+    }
+    .culture-box .content .culture-link {
+        font-size: 14px;
+    }
+    .culture-box .content p {
+        font-size: 14px;
+        margin-bottom: 8px;
+    }
+    .culture-box .content h3 {
+        margin: 0 0 10px 0;
+        font-size: 15px;
+    }
+    .culture-box img {
+        height: 200px;
+    }
+    #footer-area .footer-bottom .copy-right p{
+        font-size: 13px;
+    }
+    #footer-area .footer-area-inner-content .quick-links li.media i{
+        font-size: 14px;
+    }
+    #footer-area .footer-area-inner-content {
+        margin-bottom: 21px;
+    }
+    #footer-area .footer-area-inner-content .quick-links li a{
+        font-size: 14px;
+    }
+    #footer-area .footer-area-inner-content .quick-links li i{
+        font-size: 12px;
+    }
+    #footer-area .footer-area-inner-content h4{
+        font-size: 17px;
+    }
+    #footer-area .footer-area-inner-content p{
+        margin-top: 22px;
+    }
+    #footer-area .footer-area-inner-content .logo-area img {
+        max-width: 141px;
+    }
+    #footer-area{
+        padding-top: 41px;
+    }
+    .placement-area .owl-carousel .owl-item img {
+        width: 129px;
+        height: 93px;
+    }
+    .each_award_slide {
+        font-size: 18px;
+        line-height: 30px;
+        padding: 0 13px;
+        width: 32%;
+        margin-bottom: 15px;
+    }
+    .banner-award-right {
+        width: 100%;
+    }
+    .award-heading {
+        font-size: 18px;
+        line-height: 26px;
+    }
+    .banner-award-inner {
+        flex-direction: column;
+    }
+    .ranking-area{
+        padding: 67px 0;
+    }
+    .ranking-area .feature .content{
+        border-right: none;
+    }
+    .ranking-area .feature .content .small-icon img{
+        width: 35px;
+        height: 35px;
+    }
+    .ranking-area .feature .content h2{
+        font-size: 17px;
+    }
+    .ranking-area .feature .content h5.title{
+        font-size: 15px;
+    }
+    .ranking-area .container .row .col-lg-3{
+        margin-bottom: 24px !important;
+    }
+    .ranking-area .feature .content .wrapping-area span.white-txt{
+        font-size: 17px;
+      }
+    .section-services .single-service .title{
+        margin-bottom: 7px;
+    }
+    .section-services .single-service a{
+        font-size: 15px;
+    }
+    .section-services .single-service .title a{
+        font-size: 17px;
+    }
+    .section-services .single-service .icon img{
+        width: 26px;
+    height: 26px;
+    }
+    .section-services .single-service .icon{
+        margin-bottom: 13px;
+        width: 55px;
+        height: 55px;
+    }
+    .featured-area .featured-bg-area .view-all-btn-area .bt{
+        font-size: 13px;
+    }
+    .featured-area .featured-bg-area h3{
+        font-size: 18px;
+    }
+    .heading h3 {
+        /* font-size: 21px; */
+        font-size: 19px;
+        margin: 10px 0 23px;
+        padding: 0 0 6px 0;
+      }
+    .heading{
+        text-align: center !important;
+    }
+    .video-area video{
+        height: 100%;
+    }
+    .openbtn{
+        font-size: 15px;
+        padding: 5px 10px;
+    }
+    .top-logo-area img {
+        width: 119px;
+    }
+    .section{
+        padding: 30px 0;
+    }
+
+}
+/* Extra small devices (portrait phones, less than 576px) */
+@media (max-width: 575px) {
+    .courses-grid p{
+        font-size: 13px;
+    }
+    .client-name h5{
+        font-size: 16px;
+    }
+    .client-box .client-img{
+        margin: 16px 0 0;
+    }
+    .client-box{
+        padding: 18px;
+    }
+    #footer-area .social-links li a i{
+        font-size: 14px;
+    }
+    #footer-area .social-links li a{
+        width: 35px;
+        height: 35px;
+    }
+}
+@media(max-width: 320px) {
+
+}
+
